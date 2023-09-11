@@ -1,0 +1,6 @@
+/output
+output/
+*/*.exe
+*.exe
+!*/bin/*.exe
+!*/output/*.exe
